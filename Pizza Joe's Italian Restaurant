@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Pizza Joe's Italian Restaurant - Nazareth, PA</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #fafafa;
+      color: #333;
+    }
+    header {
+      background: #b30000;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    .container {
+      padding: 20px;
+    }
+    .section {
+      margin-bottom: 30px;
+    }
+    h2 {
+      color: #b30000;
+    }
+    .info-list {
+      list-style: none;
+      padding: 0;
+    }
+    .info-list li {
+      margin-bottom: 8px;
+    }
+    .menu-item {
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Pizza Joe's Italian Restaurant</h1>
+  <p>Authentic Italian & Pizza in Nazareth, PA</p>
+</header>
+
+<div class="container">
+  
+  <!-- Business Info -->
+  <div class="section">
+    <h2>Contact & Location</h2>
+    <ul class="info-list">
+      <li><strong>Address:</strong> 550 S Main St, Nazareth, PA 18064</li>
+      <li><strong>Phone:</strong> (610) 759-8414</li>
+      <li><strong>Rating:</strong> ⭐ 4.7+ (based on local reviews)</li>
+      <li><strong>Price:</strong> $10–$20 (approx.)</li>
+      <li><strong>Service:</strong> Dine-in & Takeout available</li>
+    </ul>
+  </div>
+  
+  <!-- Opening Hours -->
+  <div class="section">
+    <h2>Opening Hours</h2>
+    <ul class="info-list">
+      <li>Monday: Closed</li>
+      <li>Tuesday: 11:00 AM – 9:00 PM</li>
+      <li>Wednesday: 11:00 AM – 9:00 PM</li>
+      <li>Thursday: 11:00 AM – 9:00 PM</li>
+      <li>Friday: 11:00 AM – 10:00 PM</li>
+      <li>Saturday: 11:00 AM – 10:00 PM</li>
+      <li>Sunday: Closed</li>
+    </ul>
+  </div>
+  
+  <!-- Sample Menu -->
+  <div class="section">
+    <h2>Menu Highlights</h2>
+    <p>Here are some popular items (menu sections vary):</p>
+    <div class="menu-item"><strong>🍕 Sicilian Pizza</strong> – Classic thick-crust Italian pizza</div>
+    <div class="menu-item"><strong>🍝 Penne alla Vodka</strong> – Rich vodka cream sauce pasta</div>
+    <div class="menu-item"><strong>🥖 Garlic Knots</strong> – Freshly baked knots with garlic butter</div>
+    <div class="menu-item"><strong>🍗 Wings & Calzones</strong> – Various flavors and styles</div>
+    <div class="menu-item"><strong>🍝 Stuffed Shells & Baked Ziti</strong> – Italian favorites</div>
+    <p><em>Full menu available in store or by phone.</em></p>
+  </div>
+
+  <!-- Allergen Info -->
+  <div class="section">
+    <h2>Allergen & Dietary Info</h2>
+    <p>Pizza Joe’s prepares items with common allergens such as:</p>
+    <ul class="info-list">
+      <li>Gluten (in pizza dough, pasta)</li>
+      <li>Dairy (cheese, cream sauces)</li>
+      <li>Eggs and nuts (in some dough or dessert items)</li>
+      <li>Soy and other ingredients in sauces and toppings</li>
+    </ul>
+    <p><em>Please contact the restaurant directly for specific allergen concerns.</em></p>
+  </div>
+  
+  <!-- How to Order -->
+  <div class="section">
+    <h2>Place Your Order</h2>
+    <p>📞 Call: (610) 759-8414</p>
+    <p>📍 Visit us at 550 S Main St, Nazareth, PA</p>
+    <p>🍽️ Dine-in or takeout available.</p>
+  </div>
+
+  <footer>
+    <p style="text-align:center; font-size:0.9em; color:#666;">Website info compiled from public restaurant listings.</p>
+  </footer>
+
+</div>
+
+</body>
+</html>
